@@ -1,4 +1,4 @@
-#  surabaya-dev-landing-page
+# surabaya-dev-landing-page
 
 [![pages-build-deployment](https://github.com/raisilhamn/surabaya-dev-landing-page/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/raisilhamn/surabaya-dev-landing-page/actions/workflows/pages/pages-build-deployment)
 
