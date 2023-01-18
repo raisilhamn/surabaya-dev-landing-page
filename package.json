@@ -1,0 +1,16 @@
+{
+  "name": "latihantailwind",
+  "version": "1.0.0",
+  "description": "[![pages-build-deployment](https://github.com/raisilhamn/surabaya-dev-landing-page/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/raisilhamn/surabaya-dev-landing-page/actions/workflows/pages/pages-build-deployment)",
+  "main": "dist/index.html",
+  "scripts": {
+    "dev": "NODE_ENV=development tailwindcss -i ./src/input.css -o ./dist/style.css -w",
+    "prod": "NODE_ENV=production tailwindcss -i ./src/input.css -o ./dist/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "tailwindcss": "^3.2.4"
+  }
+}
